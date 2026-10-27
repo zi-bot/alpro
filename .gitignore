@@ -1,0 +1,10 @@
+_build
+Pertemuan_4
+skills
+*.docx
+*.xlsx
+*.pdf
+*.md
+!README.md
+__pycache__
+solusi
