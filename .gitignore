@@ -1,10 +1,15 @@
 _build
+_render
+assets
 Pertemuan_4
+Pertemuan_5
 skills
 *.docx
 *.xlsx
+*.pptx
 *.pdf
 *.md
 !README.md
 __pycache__
 solusi
+.DS*
